@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    
+}
+#monk{
+    border-bottom: 5px solid green;
+    padding: 2px;
+    height: 400px;
+}
